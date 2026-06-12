@@ -4,6 +4,7 @@ Materiales de apoyo para la asignatura de Física y Química de 1.º de Bachille
 
 ## Física
 
+- [Cinemática](cinematica.md)
 - [Dinámica](dinamica.md)
 
 ## Próximamente

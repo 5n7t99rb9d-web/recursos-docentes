@@ -16,6 +16,7 @@ nav:
       - Presentación: fisica-quimica/index.md
       - 1.º de Bachillerato:
           - Presentación: fisica-quimica/1-bach/index.md
+          - Cinemática: fisica-quimica/1-bach/cinematica.md
           - Dinámica: fisica-quimica/1-bach/dinamica.md
 
   - Matemáticas: matematicas/index.md
