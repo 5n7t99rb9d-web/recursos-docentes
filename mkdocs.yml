@@ -1,0 +1,13 @@
+site_name: Recursos docentes de Rubén Guillem
+
+theme:
+  name: material
+  language: es
+
+nav:
+  - Inicio: index.md
+  - Física y Química: fisica-quimica/index.md
+  - Matemáticas: matematicas/index.md
+  - Tecnología: tecnologia/index.md
+  - Digitalización: digitalizacion/index.md
+  - Actividades y proyectos: actividades/index.md
