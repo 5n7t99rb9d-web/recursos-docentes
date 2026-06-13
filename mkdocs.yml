@@ -1,14 +1,44 @@
 site_name: Recursos docentes de Rubén Guillem
+site_description: Materiales de Matemáticas, Física y Química, Tecnología y Digitalización para Educación Secundaria y Bachillerato
 
 theme:
   name: material
   language: es
+  logo: assets/logo-colegio.png
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
 
 markdown_extensions:
   - attr_list
   - md_in_html
   - admonition
 
+copyright: Copyright &copy; 2026 Rubén Guillem
+
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Inicio: index.md
 

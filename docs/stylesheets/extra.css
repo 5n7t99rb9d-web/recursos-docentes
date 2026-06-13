@@ -1,0 +1,52 @@
+/* Logotipo del centro en la barra superior */
+.md-header__button.md-logo {
+  margin: 0.25rem 0.5rem 0.25rem 0;
+  padding: 0.25rem 0.45rem;
+  background-color: white;
+  border-radius: 0.35rem;
+}
+
+/* Tamaño del logotipo */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  display: block;
+  height: 2.4rem;
+  width: auto;
+/* Logotipo del centro en la barra superior */
+.md-header__button.md-logo {
+  margin: 0.25rem 0.5rem 0.25rem 0;
+  padding: 0.25rem 0.45rem;
+  background-color: white;
+  border-radius: 0.35rem;
+}
+
+/* Tamaño del logotipo */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  display: block;
+  height: 2.4rem;
+  width: auto;
+}
+/* Tarjetas de recursos */
+.md-typeset .grid.cards > ul > li {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 0.8rem;
+  padding: 1rem;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+/* Efecto al pasar el ratón */
+.md-typeset .grid.cards > ul > li:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0.35rem 1rem rgba(0, 0, 0, 0.14);
+}
+
+/* Título de cada tarjeta */
+.md-typeset .grid.cards > ul > li > p:first-child strong {
+  font-size: 1.05rem;
+}
+
+/* Separador dentro de la tarjeta */
+.md-typeset .grid.cards hr {
+  margin: 0.6rem 0;
+}s

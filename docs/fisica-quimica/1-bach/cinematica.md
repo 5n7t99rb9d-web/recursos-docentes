@@ -22,7 +22,7 @@ Recursos para estudiar la descripción matemática del movimiento y resolver pro
 
     Apuntes de teoría y ejemplos resueltos para trabajar la unidad.
 
-    [Descargar PDF](materiales/tema-cinematica.pdf)
+    [Descargar PDF](materiales/tema-cinematica.pdf){ .md-button .md-button--primary }
 
 -   **Colección de ejercicios**
 

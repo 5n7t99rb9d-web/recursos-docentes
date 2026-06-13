@@ -22,7 +22,7 @@ Recursos para trabajar las leyes de Newton y su aplicación a la resolución de 
 
     Apuntes de teoría y ejemplos resueltos para trabajar la unidad.
 
-    [Descargar PDF](materiales/tema-dinamica.pdf)
+    [Descargar PDF](materiales/tema-dinamica.pdf){ .md-button .md-button--primary }
 
 -   **Colección de ejercicios**
 
