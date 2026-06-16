@@ -1,0 +1,3 @@
+cd "C:\Users\Ayacasa\Documents\recursos-docentes\recursos-docentes"
+.venv\Scripts\Activate.ps1
+mkdocs serve
