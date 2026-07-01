@@ -1,57 +1,49 @@
-# Dinámica
-
-Recursos para trabajar las leyes de Newton y su aplicación a la resolución de problemas.
-
-## Contenidos
-
-- Fuerzas y diagramas de cuerpo libre
-- Leyes de Newton
-- Fuerza de rozamiento
-- Planos inclinados
-- Tensión
-- Movimiento circular
-- Sistemas de cuerpos enlazados
-
 ## Materiales disponibles
 
 <div class="grid cards" markdown>
 
--   **Tema completo**
+-   **📘 Tema completo**
 
     ---
 
     Apuntes de teoría y ejemplos resueltos para trabajar la unidad.
 
-    [Descargar PDF](materiales/tema-dinamica.pdf){ .md-button .md-button--primary }
+    [Descargar tema](materiales/tema-dinamica.pdf){ .md-button .md-button--primary }
 
--   **Colección de ejercicios**
+-   **🖥️ Presentación**
+
+    ---
+
+    Presentación de apoyo para seguir la explicación de la unidad.
+
+    [Descargar presentación](materiales/presentacion-dinamica.pdf){ .md-button }
+
+-   **✏️ Colección de ejercicios**
 
     ---
 
     Problemas de dificultad progresiva para practicar los contenidos.
 
-    *Próximamente*
+    [Descargar problemas](materiales/problemas-dinamica.pdf){ .md-button }
 
--   **Exámenes anteriores**
-
-    ---
-
-    Modelos de examen y actividades de repaso.
-
-    *Próximamente*
-
--   **Actividad interactiva**
+-   **✅ Soluciones**
 
     ---
 
-    Recursos lúdicos, escape rooms o cuestionarios relacionados con la unidad.
+    Soluciones de los problemas de dinámica, separadas según el tipo de ejercicio.
 
-    *Próximamente*
+    [Sin rozamiento](materiales/solucion-problemas-dinamica-sinrozamiento.pdf){ .md-button }
+
+    [Con rozamiento](materiales/solucion-problemas-dinamica-conrozamiento.pdf){ .md-button }
+    
+-   **Modelo de examen**
+
+    ---
+
+    Modelos de exámenes de años anteriores.
+
+    [Examen cinemática y dinámica](materiales/parcial2.pdf){ .md-button }
+    
+    
 
 </div>
-
-## Orientaciones
-
-!!! info "Uso recomendado"
-
-    Comienza por los apuntes, practica después con los ejercicios y utiliza las actividades de repaso para consolidar los contenidos antes de la prueba escrita.

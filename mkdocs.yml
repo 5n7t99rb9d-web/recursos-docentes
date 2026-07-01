@@ -54,3 +54,9 @@ nav:
   - Tecnología: tecnologia/index.md
   - Digitalización: digitalizacion/index.md
   - Actividades y proyectos: actividades/index.md
+  - Biología:
+      - Presentación: biologia/index.md
+      - Biología: biologia/biologia/index.md
+      - Herramientas básicas en biología: biologia/HBB/index.md
+      - Árbol de la vida: biologia/arbol-de-la-vida/index.md
+      - Biología Celular: biologia/biologia-celular/index.md

@@ -40,6 +40,14 @@ Materiales abiertos para Educación Secundaria y Bachillerato: apuntes, ejercici
     Recursos de informática, programación, diseño y creación digital.
 
     [Acceder a Digitalización](digitalizacion/index.md)
+    
+-   **Biología**
+
+    ---
+
+    Esquemas, apuntes y recursos de repaso sobre el grado en Biología.
+
+    [Acceder a Biología](biologia/index.md)
 
 </div>
 
