@@ -1,3 +1,15 @@
-cd "C:\Users\Ayacasa\Documents\recursos-docentes\recursos-docentes"
-.venv\Scripts\Activate.ps1
-mkdocs serve
+Desde la carpeta local de recursos-docentes en PowerShell:
+
+1. Recibir los últimos cambios de GitHub antes de editar:
+   git switch main
+   git pull --ff-only
+
+2. Ver la web localmente:
+   .\.venv\Scripts\python.exe -m mkdocs serve
+
+3. Validar la web:
+   .\.venv\Scripts\python.exe -m mkdocs build
+
+Si es la primera vez en este ordenador, consulta README.md para crear el entorno.
+Si Git detecta cambios locales o ramas divergentes, conserva tu trabajo y revisa el aviso antes de continuar.
+Antes de cambiar de ordenador, sube los cambios revisados al repositorio principal.
