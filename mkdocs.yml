@@ -50,6 +50,11 @@ nav:
           - Cinemática: fisica-quimica/1-bach/cinematica.md
           - Dinámica: fisica-quimica/1-bach/dinamica.md
 
+  - Física — 2.º de Bachillerato:
+      - Presentación: fisica/2-bach/index.md
+      - Gravitación: fisica/2-bach/gravitacion.md
+      - Vibraciones y ondas: fisica/2-bach/ondas.md
+
   - Matemáticas: matematicas/index.md
   - Tecnología: tecnologia/index.md
   - Digitalización: digitalizacion/index.md
