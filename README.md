@@ -65,7 +65,7 @@ python3 -m venv .venv
 
 Los materiales y las páginas se guardan en `docs/`. La navegación se configura en `mkdocs.yml`.
 
-Física de 2.º de Bachillerato está en `docs/fisica/2-bach/` y Física y Química de 1.º en `docs/fisica-quimica/1-bach/`.
+Física de 2.º de Bachillerato está en `docs/fisica/2-bach/`, Física y Química de 1.º en `docs/fisica-quimica/1-bach/` e Informática I en `docs/informatica-1/`.
 
 Después de guardar y revisar una actualización, confirma y sube los cambios al repositorio principal. La acción **Publicar web** construye y publica GitHub Pages cuando se actualiza `main`. Comprueba que termine correctamente en la pestaña **Actions**.
 

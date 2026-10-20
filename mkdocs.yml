@@ -1,5 +1,5 @@
 site_name: Recursos docentes de Rubén Guillem
-site_description: Materiales de Matemáticas, Física y Química, Tecnología y Digitalización para Educación Secundaria y Bachillerato
+site_description: Materiales de Matemáticas, Física y Química, Informática y Digitalización para Educación Secundaria y Bachillerato
 
 theme:
   name: material
@@ -56,7 +56,9 @@ nav:
       - Vibraciones y ondas: fisica/2-bach/ondas.md
 
   - Matemáticas: matematicas/index.md
-  - Tecnología: tecnologia/index.md
+  - Informática I:
+      - Presentación: informatica-1/index.md
+      - Creación y publicación de portfolio: informatica-1/portfolio.md
   - Digitalización: digitalizacion/index.md
   - Actividades y proyectos: actividades/index.md
   - Biología:
