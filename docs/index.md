@@ -33,13 +33,13 @@ Materiales abiertos para Educación Secundaria y Bachillerato: apuntes, ejercici
 
     [Acceder a Matemáticas](matematicas/index.md)
 
--   **Tecnología**
+-   **Informática I**
 
     ---
 
-    Proyectos, actividades prácticas y materiales para el aula-taller.
+    Recursos para crear un portfolio digital y publicarlo con GitHub y MkDocs Material.
 
-    [Acceder a Tecnología](tecnologia/index.md)
+    [Acceder a Informática I](informatica-1/index.md)
 
 -   **Digitalización**
 
