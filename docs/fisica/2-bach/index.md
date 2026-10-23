@@ -12,7 +12,7 @@ Materiales de apoyo para la asignatura de Física de 2.º de Bachillerato, organ
 
     Campo gravitatorio, potencial y energía, leyes de Kepler y movimiento de satélites.
 
-    Teoría, problemas y primer examen parcial.
+    Teoría, problemas y exámenes parciales.
 
     [Acceder a Gravitación](gravitacion.md){ .md-button .md-button--primary }
 
@@ -22,7 +22,7 @@ Materiales de apoyo para la asignatura de Física de 2.º de Bachillerato, organ
 
     Movimiento armónico simple, osciladores, propagación de ondas, sonido y fenómenos ondulatorios.
 
-    Teoría y colección de problemas.
+    Teoría, colección de problemas y segundo parcial de MAS y gravitación.
 
     [Acceder a Vibraciones y ondas](ondas.md){ .md-button }
 

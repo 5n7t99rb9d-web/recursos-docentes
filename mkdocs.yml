@@ -67,3 +67,6 @@ nav:
       - Herramientas básicas en biología: biologia/HBB/index.md
       - Árbol de la vida: biologia/arbol-de-la-vida/index.md
       - Biología Celular: biologia/biologia-celular/index.md
+      - Geología:
+          - Presentación: biologia/geologia/index.md
+          - Práctica 1 — Minerales y rocas ígneas: biologia/geologia/practica-1.md
