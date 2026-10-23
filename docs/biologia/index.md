@@ -2,9 +2,9 @@
 
 Recursos de Biología para el estudio, el repaso y la elaboración de materiales docentes.
 
-Esta sección recoge apuntes, esquemas, actividades y recursos de apoyo relacionados con distintos bloques de Biología.
+Esta sección recoge apuntes, esquemas, actividades y recursos de apoyo de las materias del Grado en Biología.
 
-## Bloques disponibles
+## Materias disponibles
 
 <div class="grid cards" markdown>
 
@@ -15,6 +15,14 @@ Esta sección recoge apuntes, esquemas, actividades y recursos de apoyo relacion
     Materiales sobre estructura celular, orgánulos, membranas, citoesqueleto, ciclo celular y técnicas de laboratorio.
 
     [Acceder a Biología Celular](biologia-celular/index.md)
+
+-   **🪨 Geología**
+
+    ---
+
+    Cuaderno de prácticas del grado: reconocimiento de minerales y rocas ígneas, texturas y clasificación con el diagrama de Streckeisen.
+
+    [Acceder a Geología](geologia/index.md)
 
 </div>
 

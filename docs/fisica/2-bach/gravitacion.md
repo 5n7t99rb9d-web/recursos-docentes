@@ -39,6 +39,14 @@ Física — 2.º de Bachillerato.
 
     [Descargar examen](materiales/examenes/2026-2027/parcial-01-gravitacion.pdf){ .md-button }
 
+-   **📝 Segundo parcial — MAS y gravitación**
+
+    ---
+
+    Examen del 21 de octubre de 2026: movimiento armónico simple y gravitación. Duración de 45 minutos y puntuación máxima de 10 puntos.
+
+    [Descargar segundo parcial](materiales/examenes/2026-2027/parcial-02-mas-gravitacion.pdf){ .md-button }
+
 </div>
 
 ## Orientaciones
