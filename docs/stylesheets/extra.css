@@ -37,3 +37,26 @@
 .md-typeset .grid.cards hr {
   margin: 0.6rem 0;
 }
+/* Vídeos de Vibraciones y ondas */
+.md-typeset .grid.wave-videos {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.md-typeset .wave-videos > ul > li {
+  min-width: 0;
+}
+
+.md-typeset .wave-videos iframe {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 0.5rem;
+}
+
+@media (max-width: 44rem) {
+  .md-typeset .grid.wave-videos {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
