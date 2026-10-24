@@ -13,7 +13,7 @@ Física — 2.º de Bachillerato.
 
 ## Materiales disponibles
 
-<div class="grid cards" markdown>
+<div class="grid cards physics-resources" markdown>
 
 -   **📘 Tema completo**
 
@@ -35,7 +35,7 @@ Física — 2.º de Bachillerato.
 
     ---
 
-    Examen del 21 de octubre de 2026: movimiento armónico simple y gravitación. Duración de 45 minutos y puntuación máxima de 10 puntos.
+    Enunciado del segundo parcial del curso 2026–2027, sobre movimiento armónico simple y gravitación (21 de octubre de 2026). Duración: 45 minutos. Puntuación máxima: 10 puntos.
 
     [Descargar segundo parcial](materiales/examenes/2026-2027/parcial-02-mas-gravitacion.pdf){ .md-button }
 
@@ -73,6 +73,6 @@ Compara la dirección de vibración del medio con la dirección de propagación 
 
 !!! info "Uso recomendado"
 
-    Repasa primero el movimiento armónico simple y continúa con la propagación y los fenómenos ondulatorios. Combina los apuntes con la colección de problemas.
+    Repasa primero el movimiento armónico simple y continúa con la propagación y los fenómenos ondulatorios. Combina los apuntes con la colección de problemas y utiliza el segundo parcial para repasar los contenidos evaluados.
 
 [Volver a Física de 2.º de Bachillerato](index.md)
