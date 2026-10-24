@@ -13,7 +13,7 @@ Física — 2.º de Bachillerato.
 
 ## Materiales disponibles
 
-<div class="grid cards" markdown>
+<div class="grid cards physics-resources" markdown>
 
 -   **📘 Tema completo**
 
@@ -31,19 +31,19 @@ Física — 2.º de Bachillerato.
 
     [Descargar problemas](../Problemas%20Gravitaci%C3%B3n.pdf){ .md-button }
 
--   **📝 Examen parcial — curso 2026–2027**
+-   **📝 Primer parcial — Gravitación**
 
     ---
 
-    Primer parcial de gravitación: enunciado, 55 minutos y puntuación máxima de 10 puntos.
+    Enunciado del primer parcial del curso 2026–2027, sobre gravitación. Duración: 55 minutos. Puntuación máxima: 10 puntos.
 
-    [Descargar examen](materiales/examenes/2026-2027/parcial-01-gravitacion.pdf){ .md-button }
+    [Descargar primer parcial](materiales/examenes/2026-2027/parcial-01-gravitacion.pdf){ .md-button }
 
 -   **📝 Segundo parcial — MAS y gravitación**
 
     ---
 
-    Examen del 21 de octubre de 2026: movimiento armónico simple y gravitación. Duración de 45 minutos y puntuación máxima de 10 puntos.
+    Enunciado del segundo parcial del curso 2026–2027, sobre movimiento armónico simple y gravitación (21 de octubre de 2026). Duración: 45 minutos. Puntuación máxima: 10 puntos.
 
     [Descargar segundo parcial](materiales/examenes/2026-2027/parcial-02-mas-gravitacion.pdf){ .md-button }
 
@@ -53,6 +53,6 @@ Física — 2.º de Bachillerato.
 
 !!! info "Uso recomendado"
 
-    Consulta la teoría, practica con la colección de problemas y utiliza el parcial para repasar los contenidos evaluados.
+    Consulta la teoría, practica con la colección de problemas y utiliza los parciales para repasar los contenidos evaluados.
 
 [Volver a Física de 2.º de Bachillerato](index.md)
