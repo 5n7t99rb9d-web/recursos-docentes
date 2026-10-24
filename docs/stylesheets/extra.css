@@ -60,3 +60,107 @@
     grid-template-columns: minmax(0, 1fr);
   }
 }
+/* Prueba visual discreta: conservar identidad de MkDocs Material. */
+[data-md-color-scheme="default"] {
+  --site-heading-color: #245a57;
+  --site-card-border: rgba(23, 96, 91, 0.17);
+  --site-card-shadow: 0 5px 20px rgba(16, 66, 63, 0.07);
+  --site-card-shadow-hover: 0 10px 26px rgba(16, 66, 63, 0.12);
+  --site-intro-color: #405956;
+}
+
+[data-md-color-scheme="slate"] {
+  --site-heading-color: #c8e5df;
+  --site-card-border: rgba(178, 222, 212, 0.22);
+  --site-card-shadow: 0 5px 20px rgba(0, 0, 0, 0.18);
+  --site-card-shadow-hover: 0 10px 26px rgba(0, 0, 0, 0.28);
+  --site-intro-color: #d1dedb;
+}
+
+/* Cabecera: mismo tono institucional, con algo más de profundidad. */
+.md-header {
+  box-shadow: 0 3px 14px rgba(0, 65, 61, 0.15);
+}
+
+.md-tabs {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.16);
+}
+
+/* Jerarquía de lectura, sin tocar tablas, fórmulas ni documentos. */
+.md-typeset h1 {
+  color: var(--site-heading-color);
+  font-weight: 700;
+  letter-spacing: -0.018em;
+  line-height: 1.2;
+}
+
+.md-typeset h2 {
+  color: var(--site-heading-color);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.md-typeset p,
+.md-typeset li {
+  line-height: 1.65;
+}
+
+/* Primera impresión de la portada. */
+.md-typeset #recursos-docentes-de-ruben-guillem {
+  max-width: 18ch;
+  margin-bottom: 0.75rem;
+  font-size: clamp(2rem, 3vw, 2.45rem);
+}
+
+.md-typeset #recursos-docentes-de-ruben-guillem + p {
+  max-width: 44rem;
+  color: var(--site-intro-color);
+  font-size: 1.06rem;
+  line-height: 1.65;
+}
+
+/* Tarjetas existentes: separar mejor sin alterar su distribución. */
+.md-typeset .grid.cards > ul > li {
+  border-color: var(--site-card-border);
+  box-shadow: var(--site-card-shadow);
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ul > li:focus-within {
+  box-shadow: var(--site-card-shadow-hover);
+}
+
+.md-typeset .grid.cards > ul > li > p:first-child strong {
+  color: var(--site-heading-color);
+  font-weight: 700;
+}
+
+.md-typeset .grid.cards > ul > li a:not(.md-button) {
+  font-weight: 600;
+  text-underline-offset: 0.18em;
+}
+
+.md-typeset .grid.cards > ul > li a:not(.md-button):hover {
+  text-decoration: underline;
+}
+
+.md-typeset .md-button {
+  border-radius: 0.4rem;
+  transition: background-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.md-typeset a:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset .grid.cards > ul > li,
+  .md-typeset .md-button {
+    transition: none;
+  }
+
+  .md-typeset .grid.cards > ul > li:hover {
+    transform: none;
+  }
+}
