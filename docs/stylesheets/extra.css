@@ -37,6 +37,17 @@
 .md-typeset .grid.cards hr {
   margin: 0.6rem 0;
 }
+
+/* Alinear los botones de las tarjetas de Física dentro de cada fila. */
+.md-typeset .grid.physics-resources > ul > li {
+  display: flex;
+  flex-direction: column;
+}
+
+.md-typeset .grid.physics-resources > ul > li > p:last-child {
+  margin-top: auto;
+}
+
 /* Vídeos de Vibraciones y ondas */
 .md-typeset .grid.wave-videos {
   grid-template-columns: repeat(2, minmax(0, 1fr));
