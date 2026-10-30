@@ -77,6 +77,16 @@ Compara la dirección de vibración del medio con la dirección de propagación 
 
     [Ver en YouTube](https://youtu.be/-f1N3inzkhc){ .md-button }
 
+-   **🎬 Vídeo: ondas**
+
+    ---
+
+    Recurso audiovisual para acompañar el estudio de las ondas.
+
+    <iframe src="https://www.youtube-nocookie.com/embed/dhOTpBV0B-o" title="Vídeo sobre ondas — Física de 2.º de Bachillerato" width="560" height="315" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [Ver en YouTube](https://youtu.be/dhOTpBV0B-o){ .md-button }
+
 </div>
 
 ## Orientaciones
