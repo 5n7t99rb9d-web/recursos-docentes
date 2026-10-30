@@ -16,6 +16,16 @@ Materiales de estudio de la asignatura de Geología del Grado en Biología.
 
     [Acceder a la práctica 1](practica-1.md){ .md-button .md-button--primary }
 
+-   **🪨 Práctica 2 — Rocas ígneas**
+
+    ---
+
+    Descripción y reconocimiento de rocas ígneas a partir de su textura, estructura, minerales observables y criterios de clasificación.
+
+    Incluye un cuaderno de trabajo y una guía visual con fotografías y criterios revisados para las muestras de la práctica.
+
+    [Acceder a la práctica 2](practica-2-rocas.md){ .md-button .md-button--primary }
+
 </div>
 
 [Volver a Biología](../index.md)
