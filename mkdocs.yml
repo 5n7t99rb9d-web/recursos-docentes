@@ -45,9 +45,6 @@ nav:
 
   - Física y Química:
       - Presentación: fisica-quimica/index.md
-      - 4.º de ESO:
-          - Presentación: fisica-quimica/4-eso/index.md
-          - MRUA: fisica-quimica/4-eso/mrua.md
       - 1.º de Bachillerato:
           - Presentación: fisica-quimica/1-bach/index.md
           - Cinemática: fisica-quimica/1-bach/cinematica.md
@@ -73,3 +70,4 @@ nav:
       - Geología:
           - Presentación: biologia/geologia/index.md
           - Práctica 1 — Minerales y rocas ígneas: biologia/geologia/practica-1.md
+          - Práctica 2 — Rocas ígneas: biologia/geologia/practica-2.md
