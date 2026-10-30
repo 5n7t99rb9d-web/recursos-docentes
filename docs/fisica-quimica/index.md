@@ -1,23 +1,27 @@
 # Física y Química
 
-Materiales de Física y Química para Educación Secundaria y Bachillerato.
+Recursos para estudiar Física y Química en Educación Secundaria y Bachillerato.
 
-## 1.º de Bachillerato
+## Cursos
 
-Próximamente se incorporarán recursos de:
+<div class="grid cards" markdown>
 
-- Cinemática
-- Dinámica
-- Energía
-- Cantidad de movimiento
-- Reacciones químicas
-- Disoluciones
-- Formulación inorgánica
+-   **📘 Física y Química — 4.º de ESO**
 
-## Tipos de recursos
+    ---
 
-- Apuntes y resúmenes
-- Colecciones de ejercicios
-- Exámenes de cursos anteriores
-- Actividades de repaso
-- Recursos interactivos
+    Primeros contenidos de cinemática, con materiales para comprender y practicar el movimiento rectilíneo uniformemente acelerado.
+
+    [Acceder a 4.º de ESO](4-eso/index.md){ .md-button .md-button--primary }
+
+-   **🧪 Física y Química — 1.º de Bachillerato**
+
+    ---
+
+    Recursos de cinemática y dinámica para el curso.
+
+    [Acceder a 1.º de Bachillerato](1-bach/index.md){ .md-button }
+
+</div>
+
+Se añadirán más unidades a medida que estén disponibles sus materiales.
