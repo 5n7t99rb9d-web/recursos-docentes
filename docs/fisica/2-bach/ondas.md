@@ -89,6 +89,22 @@ Compara la dirección de vibración del medio con la dirección de propagación 
 
 </div>
 
+## Simulaciones de ondas
+
+Recurso audiovisual para explorar la representación del movimiento ondulatorio.
+
+<div class="grid cards wave-videos" markdown>
+
+-   **🎞️ Simulación de ondas**
+
+    ---
+
+    <iframe src="https://www.youtube-nocookie.com/embed/fMRQsX4uyiw" title="Simulación de ondas — Física de 2.º de Bachillerato" width="560" height="315" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [Ver en YouTube](https://youtu.be/fMRQsX4uyiw){ .md-button }
+
+</div>
+
 ## Orientaciones
 
 !!! info "Uso recomendado"
