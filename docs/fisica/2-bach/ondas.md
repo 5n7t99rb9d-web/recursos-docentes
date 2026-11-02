@@ -43,7 +43,7 @@ Física — 2.º de Bachillerato.
 
 ## Vídeos explicativos
 
-Compara la dirección de vibración del medio con la dirección de propagación de la onda.
+Vídeos para reforzar y relacionar los contenidos del movimiento ondulatorio.
 
 <div class="grid cards wave-videos" markdown>
 
@@ -77,29 +77,21 @@ Compara la dirección de vibración del medio con la dirección de propagación 
 
     [Ver en YouTube](https://youtu.be/-f1N3inzkhc){ .md-button }
 
--   **🎬 Vídeo: ondas**
+-   **🎬 Velocidad de propagación entre medios**
 
     ---
 
-    Recurso audiovisual para acompañar el estudio de las ondas.
+    Cambio de velocidad de propagación de una onda al pasar de un medio a otro.
 
-    <iframe src="https://www.youtube-nocookie.com/embed/dhOTpBV0B-o" title="Vídeo sobre ondas — Física de 2.º de Bachillerato" width="560" height="315" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.youtube-nocookie.com/embed/dhOTpBV0B-o" title="Velocidad de propagación entre medios" width="560" height="315" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     [Ver en YouTube](https://youtu.be/dhOTpBV0B-o){ .md-button }
 
-</div>
-
-## Simulaciones de ondas
-
-Recurso audiovisual para explorar la representación del movimiento ondulatorio.
-
-<div class="grid cards wave-videos" markdown>
-
--   **🎞️ Simulación de ondas**
+-   **🎬 Integración de gravitación y ondas en la Tierra**
 
     ---
 
-    <iframe src="https://www.youtube-nocookie.com/embed/fMRQsX4uyiw" title="Simulación de ondas — Física de 2.º de Bachillerato" width="560" height="315" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.youtube-nocookie.com/embed/fMRQsX4uyiw" title="Integración de gravitación y ondas en la Tierra" width="560" height="315" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     [Ver en YouTube](https://youtu.be/fMRQsX4uyiw){ .md-button }
 
