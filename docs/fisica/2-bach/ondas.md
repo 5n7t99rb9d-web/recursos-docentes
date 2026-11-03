@@ -45,6 +45,8 @@ Física — 2.º de Bachillerato.
 
 Vídeos para reforzar y relacionar los contenidos del movimiento ondulatorio.
 
+### Vídeos explicativos de vibraciones y ondas
+
 <div class="grid cards wave-videos" markdown>
 
 -   **🎬 Ondas transversales**
@@ -67,16 +69,6 @@ Vídeos para reforzar y relacionar los contenidos del movimiento ondulatorio.
 
     [Ver en YouTube](https://youtu.be/2Re6AIAiobQ){ .md-button }
 
--   **🎬 Onda sonora esférica**
-
-    ---
-
-    La propagación del sonido desde una fuente puntual mediante frentes de onda esféricos.
-
-    <iframe src="https://www.youtube-nocookie.com/embed/-f1N3inzkhc" title="Onda sonora esférica" width="560" height="315" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    [Ver en YouTube](https://youtu.be/-f1N3inzkhc){ .md-button }
-
 -   **🎬 Velocidad de propagación entre medios**
 
     ---
@@ -86,6 +78,32 @@ Vídeos para reforzar y relacionar los contenidos del movimiento ondulatorio.
     <iframe src="https://www.youtube-nocookie.com/embed/dhOTpBV0B-o" title="Velocidad de propagación entre medios" width="560" height="315" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     [Ver en YouTube](https://youtu.be/dhOTpBV0B-o){ .md-button }
+
+-   **🎬 Difracción, reflexión, refracción y polarización.**
+
+    ---
+
+    <iframe src="https://www.youtube-nocookie.com/embed/SQoj3Hyn1cM" title="Difracción, reflexión, refracción y polarización" width="560" height="315" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [Ver en YouTube](https://www.youtube.com/watch?v=SQoj3Hyn1cM){ .md-button }
+
+-   **🎬 Interferencias, rendija de Young y efecto Doppler.**
+
+    ---
+
+    <iframe src="https://www.youtube-nocookie.com/embed/Tjyla_D3YpM" title="Interferencias, rendija de Young y efecto Doppler" width="560" height="315" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [Ver en YouTube](https://www.youtube.com/watch?v=Tjyla_D3YpM){ .md-button }
+
+-   **🎬 Onda sonora esférica**
+
+    ---
+
+    La propagación del sonido desde una fuente puntual mediante frentes de onda esféricos.
+
+    <iframe src="https://www.youtube-nocookie.com/embed/-f1N3inzkhc" title="Onda sonora esférica" width="560" height="315" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    [Ver en YouTube](https://youtu.be/-f1N3inzkhc){ .md-button }
 
 -   **🎬 Integración de gravitación y ondas en la Tierra**
 
