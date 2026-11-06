@@ -26,6 +26,14 @@ Materiales de estudio de la asignatura de Geología del Grado en Biología.
 
     [Acceder a la práctica 2](practica-2-rocas.md){ .md-button .md-button--primary }
 
+-   **🪨 Práctica 3 — Rocas sedimentarias**
+
+    ---
+
+    Identificación de rocas detríticas, evaporíticas, silíceas y organógenas; texturas, estructuras, criterios de clasificación y génesis.
+
+    [Acceder a la práctica 3](practica-3.md){ .md-button .md-button--primary }
+
 </div>
 
 [Volver a Biología](../index.md)
