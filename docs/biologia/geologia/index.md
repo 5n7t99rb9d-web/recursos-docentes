@@ -34,6 +34,16 @@ Materiales de estudio de la asignatura de Geología del Grado en Biología.
 
     [Acceder a la práctica 3](practica-3.md){ .md-button .md-button--primary }
 
+-   **🪨 Práctica 4 — Rocas sedimentarias carbonatadas**
+
+    ---
+
+    Identificación y descripción de calizas, rocas carbonatadas, restos fósiles, granos revestidos y depósitos kársticos.
+
+    Incluye el cuaderno sin fotografías y una guía fotográfica de las muestras para contrastar las identificaciones.
+
+    [Acceder a la práctica 4](practica-4.md){ .md-button .md-button--primary }
+
 </div>
 
 [Volver a Biología](../index.md)
