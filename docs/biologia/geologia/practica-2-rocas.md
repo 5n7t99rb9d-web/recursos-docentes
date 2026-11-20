@@ -1,6 +1,6 @@
-# Práctica 2 — Rocas ígneas
+# Práctica 2 — Rocas ígneas: descripción y reconocimiento
 
-Geología · Grado en Biología · Curso 2026–2027.
+Geología · Grado en Biología.
 
 Descripción y reconocimiento de rocas ígneas a partir de la textura, la estructura, los minerales observables y los criterios de clasificación.
 
@@ -31,7 +31,7 @@ Descripción y reconocimiento de rocas ígneas a partir de la textura, la estruc
 
     Guía complementaria con fotografías de las muestras y criterios observables para justificar su identificación.
 
-    [Abrir guía de rocas con imágenes](https://drive.google.com/open?id=1R0DNE1WGiI8OCgszP18Nw9NozTed2-8J){ .md-button }
+    [Abrir guía de rocas con imágenes](https://drive.google.com/file/d/1R0DNE1WGiI8OCgszP18Nw9NozTed2-8J/view?usp=sharing){ .md-button }
 
 </div>
 
