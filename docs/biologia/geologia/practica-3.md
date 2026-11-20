@@ -1,4 +1,4 @@
-# Práctica 3 — Rocas sedimentarias
+# Práctica 3 — Rocas sedimentarias. Primera parte
 
 Geología · Grado en Biología.
 
