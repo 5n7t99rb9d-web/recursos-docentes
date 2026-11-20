@@ -70,6 +70,7 @@ nav:
       - Geología:
           - Presentación: biologia/geologia/index.md
           - Práctica 1 — Minerales y rocas ígneas: biologia/geologia/practica-1.md
-          - Práctica 2 — Rocas ígneas: biologia/geologia/practica-2-rocas.md
-          - Práctica 3 — Rocas sedimentarias: biologia/geologia/practica-3.md
+          - "Práctica 2 — Rocas ígneas: descripción y reconocimiento": biologia/geologia/practica-2-rocas.md
+          - Práctica 3 — Rocas sedimentarias. Primera parte: biologia/geologia/practica-3.md
           - Práctica 4 — Rocas sedimentarias carbonatadas: biologia/geologia/practica-4.md
+          - Práctica 5 — Rocas metamórficas: biologia/geologia/practica-5.md
