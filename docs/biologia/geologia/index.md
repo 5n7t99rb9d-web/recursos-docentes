@@ -2,6 +2,28 @@
 
 Materiales de estudio de la asignatura de Geología del Grado en Biología.
 
+## Herramientas de clasificación
+
+<div class="grid cards" markdown>
+
+-   **🌳 Árbol de decisiones de rocas**
+
+    ---
+
+    Guía rápida para decidir qué observar primero en una muestra y abrir la ruta de identificación adecuada.
+
+    [Descargar árbol de decisiones](materiales/arbol-decisiones-rocas.pdf){ .md-button }
+
+-   **🧭 Esquema de clasificación de rocas**
+
+    ---
+
+    Vista general de las rocas trabajadas en las prácticas 1–5 y de sus principales series de transformación.
+
+    [Descargar esquema de clasificación](materiales/esquema-clasificacion-rocas.pdf){ .md-button }
+
+</div>
+
 ## Prácticas disponibles
 
 <div class="grid cards" markdown>
@@ -16,7 +38,7 @@ Materiales de estudio de la asignatura de Geología del Grado en Biología.
 
     [Acceder a la práctica 1](practica-1.md){ .md-button .md-button--primary }
 
--   **🪨 Práctica 2 — Rocas ígneas**
+-   **🪨 Práctica 2 — Rocas ígneas: descripción y reconocimiento**
 
     ---
 
@@ -26,7 +48,7 @@ Materiales de estudio de la asignatura de Geología del Grado en Biología.
 
     [Acceder a la práctica 2](practica-2-rocas.md){ .md-button .md-button--primary }
 
--   **🪨 Práctica 3 — Rocas sedimentarias**
+-   **🪨 Práctica 3 — Rocas sedimentarias. Primera parte**
 
     ---
 
@@ -43,6 +65,16 @@ Materiales de estudio de la asignatura de Geología del Grado en Biología.
     Incluye el cuaderno sin fotografías y una guía fotográfica de las muestras para contrastar las identificaciones.
 
     [Acceder a la práctica 4](practica-4.md){ .md-button .md-button--primary }
+
+-   **🪨 Práctica 5 — Rocas metamórficas**
+
+    ---
+
+    Identificación de mármol, pizarra y esquisto, con atención a la recristalización, la foliación y las series metamórficas.
+
+    Incluye el cuaderno sin fotografías y una guía fotográfica de las muestras.
+
+    [Acceder a la práctica 5](practica-5.md){ .md-button .md-button--primary }
 
 </div>
 
