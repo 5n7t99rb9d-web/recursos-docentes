@@ -2,6 +2,21 @@
 
 Materiales de estudio de la asignatura de Geología del Grado en Biología.
 
+## Aplicaciones y herramientas
+
+<div class="grid cards" markdown>
+
+-   **🔎 Identificador de rocas**
+
+    ---
+
+    Aplicación interactiva para identificar las rocas de la colección a partir de lo que observas en una muestra. Incluye clave de preguntas, catálogo, glosario y calculadora Streckeisen QAPF.
+
+    [Abrir aplicación](apps/identificador-rocas/index.html){ .md-button .md-button--primary }
+    [Cómo utilizarla](herramientas.md)
+
+</div>
+
 ## Herramientas de clasificación
 
 <div class="grid cards" markdown>
