@@ -69,6 +69,7 @@ nav:
       - Biología Celular: biologia/biologia-celular/index.md
       - Geología:
           - Presentación: biologia/geologia/index.md
+          - Aplicaciones y herramientas: biologia/geologia/herramientas.md
           - Práctica 1 — Minerales y rocas ígneas: biologia/geologia/practica-1.md
           - "Práctica 2 — Rocas ígneas: descripción y reconocimiento": biologia/geologia/practica-2-rocas.md
           - Práctica 3 — Rocas sedimentarias. Primera parte: biologia/geologia/practica-3.md
