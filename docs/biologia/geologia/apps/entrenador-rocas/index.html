@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#174f4d">
+  <meta name="description" content="Practica el reconocimiento de las muestras reales del laboratorio de Geología.">
+  <title>Laboratorio virtual · Reconocimiento de rocas</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Saltar al contenido</a>
+  <header><a href="../../herramientas/">← Geología</a><span>RECURSOS DOCENTES <b> / LABORATORIO VIRTUAL</b></span></header>
+  <main id="main">
+    <section class="intro"><p class="eyebrow">OBSERVA · COMPARA · RECONOCE</p><h1>Cada roca cuenta<br>una historia.</h1><p>Entrena la mirada con las muestras de nuestro laboratorio. Elige el grupo y después identifica la roca.</p></section>
+    <section id="setup" class="card" aria-labelledby="setup-title">
+      <h2 id="setup-title">Tu próxima sesión</h2>
+      <div class="modes" role="group" aria-label="Modo de trabajo">
+        <button id="learn-mode" type="button" class="mode selected" aria-pressed="true"><span>01 / APRENDIZAJE</span><strong>Practica a tu ritmo</strong><small>Una muestra cada vez, con corrección y explicación al responder.</small></button>
+        <button id="exam-mode" type="button" class="mode" aria-pressed="false"><span>02 / EXAMEN</span><strong>Ponte a prueba</strong><small>Cinco tipos de roca distintos. Resultados y revisión al terminar.</small></button>
+      </div>
+      <label for="practice-group">Colección para practicar</label><select id="practice-group"><option value="">Todos los grupos</option></select>
+      <p id="availability" class="muted" role="status">Cargando catálogo…</p>
+      <button id="start" class="primary" disabled>Comenzar práctica →</button>
+      <details id="local-panel"><summary>Probar con las fotografías del ordenador</summary><p>Selecciona la carpeta <strong>imagenes</strong> del proyecto de Geología. Las fotografías se abren solo en este navegador; no se envían a ningún servidor. Se necesitan los derivados JPG de las prácticas 2–5.</p><label class="file-label" for="local-files">Seleccionar carpeta de imágenes</label><input id="local-files" type="file" accept="image/jpeg,image/webp,image/png" webkitdirectory multiple><p id="local-status" role="status" class="muted"></p></details>
+    </section>
+    <section id="session" hidden aria-labelledby="session-title">
+      <div class="session-heading"><div><p id="mode-label" class="eyebrow"></p><h2 id="session-title" tabindex="-1">¿Qué muestra observas?</h2></div><button id="exit" class="quiet">Volver al inicio</button></div>
+      <div class="progress-heading"><span id="progress-text"></span><span id="session-score"></span></div><progress id="progress" value="0" max="5" aria-label="Progreso de la sesión"></progress>
+      <div class="workspace"><figure class="card photo-card"><div id="image-state" role="status">Cargando fotografía…</div><button id="zoom" aria-label="Ampliar fotografía" disabled><img id="sample" alt="Muestra de roca para identificar" hidden></button><figcaption>Observa la textura, los granos y la organización de la muestra.<span> Pulsa la fotografía para ampliarla.</span></figcaption><button id="retry" class="quiet" hidden>Reintentar fotografía</button></figure>
+      <div class="card answer-card"><form id="answer-form"><p class="eyebrow">TU IDENTIFICACIÓN</p><label for="answer-group">1. Grupo</label><select id="answer-group" required><option value="">Selecciona un grupo</option></select><label for="answer-rock">2. Roca o material</label><select id="answer-rock" required disabled><option value="">Selecciona primero un grupo</option></select><p class="muted">Los nombres incluyen estructuras y materiales de la colección.</p><button id="submit" class="primary" disabled>Comprobar respuesta</button></form><div id="feedback" hidden aria-live="polite"></div><div class="actions"><button id="previous" class="quiet" hidden>← Anterior</button><button id="next" class="primary" hidden>Siguiente muestra →</button></div></div></div>
+    </section>
+    <section id="results" class="card" hidden aria-labelledby="results-title"><p class="eyebrow">SESIÓN COMPLETADA</p><h2 id="results-title" tabindex="-1">Tu resultado</h2><p id="grade" class="grade"></p><p id="result-description" class="muted"></p><div id="review"></div><button id="restart" class="primary">Preparar otra sesión →</button></section>
+    <p id="fatal" role="alert" hidden></p>
+    <footer><span>Prácticas 2–5 · Colección del laboratorio</span><a href="../identificador-rocas/index.html">Consultar el identificador de rocas ↗</a><p>Las fotografías permiten practicar el reconocimiento de la colección. Algunas identificaciones requieren pruebas en la muestra real.</p></footer>
+  </main>
+  <dialog id="lightbox"><button id="close-zoom" aria-label="Cerrar ampliación">Cerrar ×</button><img id="large-sample" alt="Fotografía ampliada de la muestra"></dialog>
+  <noscript>Activa JavaScript para utilizar el entrenador.</noscript>
+</body>
+</html>

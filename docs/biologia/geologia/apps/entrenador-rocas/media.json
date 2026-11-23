@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "provider": "cloudinary",
+  "baseUrl": "",
+  "cloudName": "oodx73ll",
+  "prefix": ""
+}

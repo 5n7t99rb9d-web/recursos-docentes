@@ -17,6 +17,14 @@ Materiales de estudio de la asignatura de Geología del Grado en Biología.
 
 </div>
 
+## Entrenador fotográfico
+
+Aprendizaje con corrección inmediata y autoexámenes de cinco tipos de roca distintos, utilizando las fotografías de la colección.
+
+[Abrir entrenador fotográfico](apps/entrenador-rocas/index.html){ .md-button .md-button--primary }
+
+Las fotografías se sirven desde Cloudinary. Los originales se conservan en Drive.
+
 ## Herramientas de clasificación
 
 <div class="grid cards" markdown>
@@ -94,3 +102,4 @@ Materiales de estudio de la asignatura de Geología del Grado en Biología.
 </div>
 
 [Volver a Biología](../index.md)
+
