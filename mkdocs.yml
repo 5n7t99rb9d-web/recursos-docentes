@@ -45,12 +45,13 @@ nav:
 
   - Física y Química:
       - Presentación: fisica-quimica/index.md
+      - 3.º de ESO: fisica-quimica/3-eso/index.md
       - 1.º de Bachillerato:
           - Presentación: fisica-quimica/1-bach/index.md
           - Cinemática: fisica-quimica/1-bach/cinematica.md
           - Dinámica: fisica-quimica/1-bach/dinamica.md
 
-  - Física — 2.º de Bachillerato:
+  - Física:
       - Presentación: fisica/2-bach/index.md
       - Gravitación: fisica/2-bach/gravitacion.md
       - Vibraciones y ondas: fisica/2-bach/ondas.md
