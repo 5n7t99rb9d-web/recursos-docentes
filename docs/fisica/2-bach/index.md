@@ -1,6 +1,20 @@
-# Física — 2.º de Bachillerato
+# Física
 
 Materiales de apoyo para la asignatura de Física de 2.º de Bachillerato, organizados por unidades.
+
+## Examen trimestral
+
+<div class="grid cards physics-resources" markdown>
+
+-   **📝 Examen trimestral — curso 2026–2027**
+
+    ---
+
+    Prueba global de 10 puntos con problemas de campo gravitatorio y órbitas, MAS y fenómenos ondulatorios.
+
+    [Descargar examen trimestral](materiales/examenes/2026-2027/examen-trimestral-fisica-2-bach.pdf){ .md-button .md-button--primary }
+
+</div>
 
 ## Unidades disponibles
 
@@ -39,4 +53,4 @@ Las siguientes unidades se incorporarán cuando estén disponibles sus documento
 
 ## Otros cursos
 
-[Consultar Física y Química de 1.º de Bachillerato](../../fisica-quimica/1-bach/index.md)
+[Consultar Física y Química](../../fisica-quimica/index.md)
