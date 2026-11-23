@@ -2,6 +2,15 @@
 
 Herramientas de consulta y trabajo para acompañar la observación de muestras y el estudio de Geología.
 
+## Entrenador fotográfico de rocas
+
+Practica con las fotografías de las muestras del laboratorio. En aprendizaje recibes una corrección inmediata; en examen identificas cinco tipos distintos y revisas los resultados al terminar.
+
+[Abrir entrenador fotográfico](apps/entrenador-rocas/index.html){ .md-button .md-button--primary }
+
+Primero seleccionas el grupo (ígneas, sedimentarias no carbonatadas, carbonatadas o metamórficas) y después la roca concreta. El examen usa las vistas seleccionadas para evaluación; las identificaciones ambiguas y los materiales de contraste se reservan para revisión.
+
+
 ## Identificador de rocas
 
 Aplicación de reconocimiento macroscópico basada en la colección de las prácticas 2–5. Observa la muestra y responde a las preguntas para recorrer la clave de identificación.
@@ -24,3 +33,4 @@ Funciona sin cuenta y conserva el recorrido en el navegador. Se abre en una pág
 [Consultar el árbol y el esquema de clasificación](index.md#herramientas-de-clasificacion)
 
 [Volver a Geología](index.md)
+
