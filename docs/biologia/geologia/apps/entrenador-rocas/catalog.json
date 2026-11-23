@@ -1,0 +1,1886 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "id": "igneas",
+      "name": "Ígneas"
+    },
+    {
+      "id": "sedimentarias",
+      "name": "Sedimentarias no carbonatadas"
+    },
+    {
+      "id": "carbonatadas",
+      "name": "Carbonatadas"
+    },
+    {
+      "id": "metamorficas",
+      "name": "Metamórficas"
+    }
+  ],
+  "rocks": [
+    {
+      "id": "r006",
+      "name": "Basalto",
+      "group": "igneas",
+      "practice": 2,
+      "identifierId": "r006",
+      "explanation": "Masa volcánica compacta de grano muy fino, generalmente oscura",
+      "limit": "Color negro insuficiente",
+      "photos": [
+        {
+          "id": "p2-8962",
+          "path": "practica_02/IMG_8962.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Grano fino oscuro con puntos claros dispersos; aspecto masivo. Dos vistas de una pieza semejante."
+        },
+        {
+          "id": "p2-8963",
+          "path": "practica_02/IMG_8963.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Grano fino oscuro con puntos claros dispersos; aspecto masivo. Dos vistas de una pieza semejante."
+        },
+        {
+          "id": "p2-8964",
+          "path": "practica_02/IMG_8964.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza oscura compacta, de aspecto más uniforme; sin grandes cristales evidentes."
+        }
+      ]
+    },
+    {
+      "id": "r009",
+      "name": "Lava cordada",
+      "group": "igneas",
+      "practice": 2,
+      "identifierId": "r009",
+      "explanation": "Superficie de flujo con pliegues y surcos continuos semejantes a cuerdas",
+      "limit": "Es estructura; puede acompañar nombre composicional",
+      "photos": [
+        {
+          "id": "p2-8966",
+          "path": "practica_02/IMG_8966.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Relieves curvos y alargados, color rojizo y cavidades pequeñas; distintas vistas."
+        },
+        {
+          "id": "p2-8967",
+          "path": "practica_02/IMG_8967.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Relieves curvos y alargados, color rojizo y cavidades pequeñas; distintas vistas."
+        },
+        {
+          "id": "p2-8968",
+          "path": "practica_02/IMG_8968.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza gris con lóbulos/surcos y grietas; el perfil muestra una costra irregular. Asociación por secuencia."
+        },
+        {
+          "id": "p2-8969",
+          "path": "practica_02/IMG_8969.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Pieza gris con lóbulos/surcos y grietas; el perfil muestra una costra irregular. Asociación por secuencia."
+        },
+        {
+          "id": "p2-8970",
+          "path": "practica_02/IMG_8970.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Pieza gris con lóbulos/surcos y grietas; el perfil muestra una costra irregular. Asociación por secuencia."
+        },
+        {
+          "id": "p2-8971",
+          "path": "practica_02/IMG_8971.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza rojiza con surcos alargados bien marcados; estructura de flujo."
+        }
+      ]
+    },
+    {
+      "id": "r010",
+      "name": "Lava vacuolar",
+      "group": "igneas",
+      "practice": 2,
+      "identifierId": "r010",
+      "explanation": "Huecos redondos/alargados de gas dentro de una pasta volcánica",
+      "limit": "Toba calcárea; pumita",
+      "photos": [
+        {
+          "id": "p2-8973",
+          "path": "practica_02/IMG_8973.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Muchas cavidades pequeñas redondeadas en una matriz oscura fina."
+        },
+        {
+          "id": "p2-8974",
+          "path": "practica_02/IMG_8974.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cavidades irregulares y matriz fina; no identificar minerales por el tono verdoso."
+        }
+      ]
+    },
+    {
+      "id": "r011",
+      "name": "Bomba volcánica",
+      "group": "igneas",
+      "practice": 2,
+      "identifierId": "r011",
+      "explanation": "Fragmento grande con corteza y deformación plástica durante expulsión",
+      "limit": "La redondez sola no basta",
+      "photos": [
+        {
+          "id": "p2-8976",
+          "path": "practica_02/IMG_8976.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Fragmento con corte oscuro compacto y corteza más rugosa; asociación por secuencia."
+        },
+        {
+          "id": "p2-8977",
+          "path": "practica_02/IMG_8977.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza alargada rojiza, superficie rugosa y surcos."
+        },
+        {
+          "id": "p2-8978",
+          "path": "practica_02/IMG_8978.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza redondeada parda, rugosa y porosa; no es la etiqueta de pumita."
+        }
+      ]
+    },
+    {
+      "id": "r008",
+      "name": "Pumita",
+      "group": "igneas",
+      "practice": 2,
+      "identifierId": "r008",
+      "explanation": "Espuma de vesículas extremadamente numerosas y paredes finas; muy ligera",
+      "limit": "Toba calcárea; escoria o lava vacuolar",
+      "photos": [
+        {
+          "id": "p2-8980",
+          "path": "practica_02/IMG_8980.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Bandeja: piezas claras, amarillentas y pardas, con porosidad variable. Describir cada una como vesicular sólo donde los huecos se ven; color y fotografía no prueban densidad."
+        }
+      ]
+    },
+    {
+      "id": "r007",
+      "name": "Obsidiana",
+      "group": "igneas",
+      "practice": 2,
+      "identifierId": "r007",
+      "explanation": "Aspecto de vidrio, fractura concoidea y bordes cortantes",
+      "limit": "Sílex",
+      "photos": [
+        {
+          "id": "p2-8981",
+          "path": "practica_02/IMG_8981.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Vidrio negro brillante con fractura concoidea; identificación probable, sin etiqueta."
+        }
+      ]
+    },
+    {
+      "id": "r004",
+      "name": "Riolita",
+      "group": "igneas",
+      "practice": 2,
+      "identifierId": "r004",
+      "explanation": "Pasta fina, a menudo porfídica, con rasgos de composición félsica",
+      "limit": "Porfídica sin composición comprobable",
+      "photos": [
+        {
+          "id": "p2-8983",
+          "path": "practica_02/IMG_8983.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cristales rosados mayores en matriz gris fina; textura porfídica."
+        }
+      ]
+    },
+    {
+      "id": "r005",
+      "name": "Andesita",
+      "group": "igneas",
+      "practice": 2,
+      "identifierId": "r005",
+      "explanation": "Pasta fina frecuentemente porfídica; plagioclasas y cristales máficos",
+      "limit": "El tono gris ni la textura porfídica bastan",
+      "photos": [
+        {
+          "id": "p2-8986",
+          "path": "practica_02/IMG_8986.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Porfídica, matriz clara con cristales oscuros alargados y manchas ocres."
+        },
+        {
+          "id": "p2-8987",
+          "path": "practica_02/IMG_8987.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Muestra oscura con abundantes cristales claros pequeños; aspecto porfídico. Dos vistas semejantes, asociación por secuencia."
+        },
+        {
+          "id": "p2-8988",
+          "path": "practica_02/IMG_8988.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza gris clara de grano fino y puntos oscuros; contraste de tamaños menos evidente."
+        },
+        {
+          "id": "p2-8989",
+          "path": "practica_02/IMG_8989.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Muestra oscura con abundantes cristales claros pequeños; aspecto porfídico. Dos vistas semejantes, asociación por secuencia."
+        }
+      ]
+    },
+    {
+      "id": "r003",
+      "name": "Gabro",
+      "group": "igneas",
+      "practice": 2,
+      "identifierId": "r003",
+      "explanation": "Agregado granudo con plagioclasa y minerales máficos, especialmente piroxeno",
+      "limit": "El color oscuro solo no identifica gabro",
+      "photos": [
+        {
+          "id": "p2-8991",
+          "path": "practica_02/IMG_8991.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cristales visibles claros y oscuros intercrecidos; tamaño desigual."
+        },
+        {
+          "id": "p2-8992",
+          "path": "practica_02/IMG_8992.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Placa pulida oscura de moteado fino; el pulido y reflejo dificultan reconocer minerales."
+        },
+        {
+          "id": "p2-8993",
+          "path": "practica_02/IMG_8993.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cristales grises y negros grandes bien contrastados; textura granuda."
+        },
+        {
+          "id": "p2-8994",
+          "path": "practica_02/IMG_8994.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Placa oscura con cristales claros alargados dispersos; granuda desigual por asociación de colección, sin cuantificar minerales."
+        }
+      ]
+    },
+    {
+      "id": "r002",
+      "name": "Sienita",
+      "group": "igneas",
+      "practice": 2,
+      "identifierId": "r002",
+      "explanation": "Mosaico granudo dominado por feldespatos, con escasez de cuarzo",
+      "limit": "Granito",
+      "photos": [
+        {
+          "id": "p2-8996",
+          "path": "practica_02/IMG_8996.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cristales rosados y negros intercrecidos; vista natural y placa pulida de aspecto semejante."
+        },
+        {
+          "id": "p2-8997",
+          "path": "practica_02/IMG_8997.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cristales rosados y negros intercrecidos; vista natural y placa pulida de aspecto semejante."
+        },
+        {
+          "id": "p2-8998",
+          "path": "practica_02/IMG_8998.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza rosada de grano visible relativamente pequeño y puntos oscuros."
+        },
+        {
+          "id": "p2-8999",
+          "path": "practica_02/IMG_8999.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza oscura con cristales rosados; mayor contraste de tamaños que en 8998."
+        },
+        {
+          "id": "p2-9001",
+          "path": "practica_02/IMG_9001.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza muy clara con grandes cristales claros y agrupaciones negras; granuda desigual."
+        },
+        {
+          "id": "p2-9002",
+          "path": "practica_02/IMG_9002.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Vista de bandeja; muestra la variación de color y tamaño de grano, no otro nombre de roca."
+        }
+      ]
+    },
+    {
+      "id": "r001",
+      "name": "Granito",
+      "group": "igneas",
+      "practice": 2,
+      "identifierId": "r001",
+      "explanation": "Cristales visibles intercrecidos; cuarzo y feldespatos abundantes",
+      "limit": "Sienita: cuarzo escaso",
+      "photos": [
+        {
+          "id": "p2-9004",
+          "path": "practica_02/IMG_9004.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cristales rosados, claros y oscuros intercrecidos; granuda, masiva."
+        },
+        {
+          "id": "p2-9005",
+          "path": "practica_02/IMG_9005.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza blanquecina con puntos negros y grano visible; variedad de aspecto más claro."
+        },
+        {
+          "id": "p2-9006",
+          "path": "practica_02/IMG_9006.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza rojiza con cristales claros mayores en agregado cristalino más fino; granuda desigual, posible aspecto porfiroide."
+        }
+      ]
+    },
+    {
+      "id": "r015",
+      "name": "Arenisca",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r015",
+      "explanation": "Granos clásticos del tamaño de arena (1/16–2 mm)",
+      "limit": "Rodeno es variedad rojiza; subtipos minerales si hay datos",
+      "photos": [
+        {
+          "id": "p3-9041",
+          "path": "practica_03/IMG_9041.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Superficie granular clara. El redondeo exterior pertenece a la pieza entera."
+        },
+        {
+          "id": "p3-9042",
+          "path": "practica_03/IMG_9042.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cara ocre de grano fino con variaciones de tono."
+        },
+        {
+          "id": "p3-9043",
+          "path": "practica_03/IMG_9043.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Granos visibles y zonas rojizas. Composición del cemento por comprobar."
+        },
+        {
+          "id": "p3-9045",
+          "path": "practica_03/IMG_9045.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Láminas finas subparalelas y oblicuas visibles en el canto."
+        },
+        {
+          "id": "p3-9046",
+          "path": "practica_03/IMG_9046.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cara rojiza estrecha con variaciones de tono."
+        },
+        {
+          "id": "p3-9048",
+          "path": "practica_03/IMG_9048.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cara granular rojiza bastante uniforme. La línea clara aislada requiere contraste en otra cara."
+        },
+        {
+          "id": "p3-9049",
+          "path": "practica_03/IMG_9049.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Relieves ondulados con crestas y surcos, compatibles con rizaduras."
+        }
+      ]
+    },
+    {
+      "id": "r014",
+      "name": "Brecha sedimentaria",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r014",
+      "explanation": "Clastos consolidados >2 mm, predominantemente angulosos",
+      "limit": "Conglomerado; brechas no sedimentarias",
+      "photos": [
+        {
+          "id": "p3-9051",
+          "path": "practica_03/IMG_9051.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Clastos oscuros con aristas en material intersticial claro."
+        },
+        {
+          "id": "p3-9052",
+          "path": "practica_03/IMG_9052.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Segunda vista del mismo ejemplar. Se distinguen varios bordes angulosos."
+        },
+        {
+          "id": "p3-9053",
+          "path": "practica_03/IMG_9053.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Fragmentos grises gruesos, algunos subangulosos, rodeados de material más claro."
+        },
+        {
+          "id": "p3-9054",
+          "path": "practica_03/IMG_9054.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Clastos oscuros angulosos incluidos en material rojizo."
+        },
+        {
+          "id": "p3-9055",
+          "path": "practica_03/IMG_9055.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Fragmentos dispersos en fondo ocre. El diagnóstico es menos seguro en esta cara."
+        }
+      ]
+    },
+    {
+      "id": "r013",
+      "name": "Conglomerado",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r013",
+      "explanation": "Clastos consolidados >2 mm, predominantemente redondeados",
+      "limit": "Brecha; grava suelta",
+      "photos": [
+        {
+          "id": "p3-9057",
+          "path": "practica_03/IMG_9057.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Numerosos cantos claros y oscuros redondeados en una fracción arenosa."
+        },
+        {
+          "id": "p3-9058",
+          "path": "practica_03/IMG_9058.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cantos subredondeados de tamaños diversos dentro de la pieza."
+        },
+        {
+          "id": "p3-9059",
+          "path": "practica_03/IMG_9059.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Gravas rojizas redondeadas sobresalen de la superficie del bloque."
+        }
+      ]
+    },
+    {
+      "id": "r019",
+      "name": "Grava suelta",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r019",
+      "explanation": "Cantos sueltos no consolidados y tamaño >2 mm",
+      "limit": "Es sedimento, no roca litificada",
+      "photos": [
+        {
+          "id": "p3-9061",
+          "path": "practica_03/IMG_9061.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Canto individual redondeado. Las bandas pertenecen al canto."
+        },
+        {
+          "id": "p3-9062",
+          "path": "practica_03/IMG_9062.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Varios cantos independientes, de color y tamaño diferentes."
+        }
+      ]
+    },
+    {
+      "id": "r022",
+      "name": "Halita",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r022",
+      "explanation": "Cristales de aspecto cúbico, tres exfoliaciones a 90°",
+      "limit": "Silvina no se separa de modo seguro por color",
+      "photos": [
+        {
+          "id": "p3-9064",
+          "path": "practica_03/IMG_9064.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Agregado blanco de aspecto cristalino. La vista muestra pocos ángulos diagnósticos."
+        },
+        {
+          "id": "p3-9065",
+          "path": "practica_03/IMG_9065.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Masa clara de tonos salmón con bandas oscuras. El color no fija el cloruro."
+        }
+      ]
+    },
+    {
+      "id": "r023",
+      "name": "Silvina",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r023",
+      "explanation": "Agregado con exfoliación cúbica, a veces salmón/rosado",
+      "limit": "No identificar solo por rosado",
+      "photos": [
+        {
+          "id": "p3-9067",
+          "path": "practica_03/IMG_9067.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Agregado salmón con superficies cristalinas brillantes. El color es compatible con silvina."
+        }
+      ]
+    },
+    {
+      "id": "lutitas",
+      "name": "Lutita",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": null,
+      "explanation": "Lutita de grano muy fino. La fotografía no permite separar con seguridad limolita de arcillita.",
+      "limit": "Sin pruebas adicionales no se exige diferenciar limolita de arcillita.",
+      "photos": [
+        {
+          "id": "p3-9072",
+          "path": "practica_03/IMG_9072.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cara fina gris clara, con relieve irregular y posibles láminas."
+        },
+        {
+          "id": "p3-9074",
+          "path": "practica_03/IMG_9074.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza gris verdosa de base fina con manchas blancas."
+        },
+        {
+          "id": "p3-9075",
+          "path": "practica_03/IMG_9075.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza gris oscura heterogénea con inclusiones claras. El detalle no separa limo de arcilla."
+        },
+        {
+          "id": "p3-9076",
+          "path": "practica_03/IMG_9076.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza blanca homogénea sin grano discernible. La posición en la serie sólo sugiere una asociación."
+        }
+      ]
+    },
+    {
+      "id": "r020",
+      "name": "Yeso",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r020",
+      "explanation": "Agregado cristalino blando; hábito fibroso, laminar o compacto",
+      "limit": "Anhidrita/alabastro; masa blanca no es suficiente",
+      "photos": [
+        {
+          "id": "p3-9078",
+          "path": "practica_03/IMG_9078.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cristales tabulares agrupados en rosetas, aspecto de rosa del desierto."
+        },
+        {
+          "id": "p3-9079",
+          "path": "practica_03/IMG_9079.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Franja blanca de fibras paralelas en material rojizo."
+        },
+        {
+          "id": "p3-9080",
+          "path": "practica_03/IMG_9080.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Agregado rojizo con superficies cristalinas claras."
+        },
+        {
+          "id": "p3-9081",
+          "path": "practica_03/IMG_9081.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Fragmento alargado, transparente y laminar, compatible con selenita."
+        },
+        {
+          "id": "p3-9082",
+          "path": "practica_03/IMG_9082.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Agregado claro con fibras largas paralelas y brillo sedoso."
+        }
+      ]
+    },
+    {
+      "id": "r024",
+      "name": "Sílex",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r024",
+      "explanation": "Masa muy dura de fractura concoidea, brillo usualmente céreo",
+      "limit": "Ágata es variedad bandeada de sílice",
+      "photos": [
+        {
+          "id": "p3-9086",
+          "path": "practica_03/IMG_9086.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Masa clara compacta con superficies de rotura curvas."
+        },
+        {
+          "id": "p3-9087",
+          "path": "practica_03/IMG_9087.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza parda nodular con corteza irregular y fracturas curvas."
+        },
+        {
+          "id": "p3-9088",
+          "path": "practica_03/IMG_9088.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Fragmento claro de bordes agudos y superficies cóncavas lisas."
+        }
+      ]
+    },
+    {
+      "id": "r026",
+      "name": "Ágata",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r026",
+      "explanation": "Sílice con bandas de crecimiento concéntricas",
+      "limit": "Fotografiada y explicada, no en listado principal del esquema",
+      "photos": [
+        {
+          "id": "p3-9090",
+          "path": "practica_03/IMG_9090.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Bandas claras y oscuras aproximadamente paralelas. La asociación con ágata aquí es tentativa."
+        },
+        {
+          "id": "p3-9091",
+          "path": "practica_03/IMG_9091.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Bandas concéntricas que rodean una cavidad. Es el rasgo más diagnóstico de la serie."
+        }
+      ]
+    },
+    {
+      "id": "r025",
+      "name": "Xilópalo",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r025",
+      "explanation": "Material silíceo duro que conserva textura leñosa",
+      "limit": "Sílex sin estructura leñosa",
+      "photos": [
+        {
+          "id": "p3-9093",
+          "path": "practica_03/IMG_9093.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Estrías longitudinales y aspecto de astillas de madera en una pieza mineralizada."
+        },
+        {
+          "id": "p3-9094",
+          "path": "practica_03/IMG_9094.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cara clara y borde oscuro con vetas persistentes a lo largo de la pieza."
+        }
+      ]
+    },
+    {
+      "id": "r027",
+      "name": "Turba",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r027",
+      "explanation": "Restos vegetales reconocibles y textura poco compacta",
+      "limit": "Lignito",
+      "photos": [
+        {
+          "id": "p3-9097",
+          "path": "practica_03/IMG_9097.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cara negra porosa con puntos claros. Aquí las fibras son poco distinguibles."
+        }
+      ]
+    },
+    {
+      "id": "r028",
+      "name": "Lignito",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r028",
+      "explanation": "Carbón relativamente compacto con posible estructura leñosa y brillo apagado",
+      "limit": "El rango no se demuestra solo con color",
+      "photos": [
+        {
+          "id": "p3-9099",
+          "path": "practica_03/IMG_9099.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Pieza oscura compacta de brillo desigual y caras de rotura planas. La imagen sola no fija el rango."
+        }
+      ]
+    },
+    {
+      "id": "r029",
+      "name": "Hulla",
+      "group": "sedimentarias",
+      "practice": 3,
+      "identifierId": "r029",
+      "explanation": "Carbón negro compacto con alternancia frecuente de bandas brillantes y mates",
+      "limit": "No es una distinción absolutamente segura solo a visu",
+      "photos": [
+        {
+          "id": "p3-9101",
+          "path": "practica_03/IMG_9101.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Masa negra rugosa con zonas de brillo intenso."
+        },
+        {
+          "id": "p3-9102",
+          "path": "practica_03/IMG_9102.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Capas negras brillantes y mates con inclusiones claras."
+        },
+        {
+          "id": "p3-9103",
+          "path": "practica_03/IMG_9103.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Lámina oscura separada de una pieza con planos subparalelos."
+        }
+      ]
+    },
+    {
+      "id": "r032",
+      "name": "Caliza oolítica",
+      "group": "carbonatadas",
+      "practice": 4,
+      "identifierId": "r032",
+      "explanation": "Numerosos granos redondeados pequeños de tamaño parecido",
+      "limit": "Oncolítica; pellets; fósiles redondeados",
+      "photos": [
+        {
+          "id": "p4-9173",
+          "path": "practica_04/IMG_9173.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Fondo punteado con una amplia superficie estriada. Buscar granos redondos fuera de la zona de estrías."
+        },
+        {
+          "id": "p4-9174",
+          "path": "practica_04/IMG_9174.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Otra toma de la cara estriada. El cambio de iluminación modifica el color y los anillos siguen sin distinguirse."
+        },
+        {
+          "id": "p4-9175",
+          "path": "practica_04/IMG_9175.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Muchos granos claros, redondeados y de tamaño parecido sobresalen de la cara rugosa. Es el mejor candidato oolítico de esta serie."
+        },
+        {
+          "id": "p4-9176",
+          "path": "practica_04/IMG_9176.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Corte claro de grano muy fino. Los puntos dispersos no bastan para identificar oolitos."
+        },
+        {
+          "id": "p4-9177",
+          "path": "practica_04/IMG_9177.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Secciones oscuras ovaladas de tamaños distintos, algunas muy grandes respecto al fondo. Revisar si son restos esqueléticos o granos revestidos."
+        }
+      ]
+    },
+    {
+      "id": "r031",
+      "name": "Caliza micrítica",
+      "group": "carbonatadas",
+      "practice": 4,
+      "identifierId": "r031",
+      "explanation": "Fondo compacto fino, mate y sin granos reconocibles dominantes",
+      "limit": "Basalto; sílex; marga",
+      "photos": [
+        {
+          "id": "p4-9180",
+          "path": "practica_04/IMG_9180.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Pieza rojiza de fractura curva y fondo homogéneo. El tono rojo carece de valor diagnóstico por sí solo."
+        },
+        {
+          "id": "p4-9181",
+          "path": "practica_04/IMG_9181.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Superficies lisas y compactas en piezas de dos colores. Las finas estrías siguen la fractura."
+        },
+        {
+          "id": "p4-9182",
+          "path": "practica_04/IMG_9182.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cara clara alterada y cara inferior más lisa. Examinar la fractura fresca para buscar granos."
+        },
+        {
+          "id": "p4-9183",
+          "path": "practica_04/IMG_9183.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Fondo negro de aspecto compacto con trazos blancos. Distinguir rellenos de fisuras y posibles restos antes de asignar un subtipo."
+        }
+      ]
+    },
+    {
+      "id": "r033",
+      "name": "Caliza con intraclastos",
+      "group": "carbonatadas",
+      "practice": 4,
+      "identifierId": "r033",
+      "explanation": "Fragmentos carbonatados con límites propios en matriz/fondo",
+      "limit": "Caliza fosilífera; brecha sedimentaria",
+      "photos": [
+        {
+          "id": "p4-9185",
+          "path": "practica_04/IMG_9185.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Fragmentos claros de contorno irregular dentro de un fondo pardo. Apoyan el retrabajamiento de sedimento carbonatado."
+        },
+        {
+          "id": "p4-9186",
+          "path": "practica_04/IMG_9186.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Fragmentos estrechos y alargados en la cara vertical. Seguir el perímetro de cada fragmento para distinguirlo de un filón."
+        },
+        {
+          "id": "p4-9187",
+          "path": "practica_04/IMG_9187.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Superficie relativamente uniforme con contornos oblicuos poco contrastados. Diagnóstico intraclástico tentativo."
+        }
+      ]
+    },
+    {
+      "id": "r042",
+      "name": "Marga",
+      "group": "carbonatadas",
+      "practice": 4,
+      "identifierId": "r042",
+      "explanation": "Masa terrosa con mezcla visible/característica de arcilla y carbonato",
+      "limit": "Lutita calcárea y caliza arcillosa; 35–65% por definición",
+      "photos": [
+        {
+          "id": "p4-9189",
+          "path": "practica_04/IMG_9189.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Pieza rosada, fina y mate. Compatible con marga, pendiente de comprobar arcilla y carbonato."
+        },
+        {
+          "id": "p4-9190",
+          "path": "practica_04/IMG_9190.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Fondo fino con pequeños restos curvos y tubulares. Los restos apoyan el carácter fosilífero, pero no fijan la proporción de arcilla."
+        },
+        {
+          "id": "p4-9191",
+          "path": "practica_04/IMG_9191.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Cara terrosa con perforaciones y fragmentos de concha. Marga fosilífera posible si el fondo contiene suficiente arcilla."
+        },
+        {
+          "id": "p4-9192",
+          "path": "practica_04/IMG_9192.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Fragmento pequeño con restos claros, cavidades y poco fondo visible. Se reconoce la concentración de restos mejor que la naturaleza de la matriz."
+        }
+      ]
+    },
+    {
+      "id": "r040",
+      "name": "Espeleotema",
+      "group": "carbonatadas",
+      "practice": 4,
+      "identifierId": "r040",
+      "explanation": "Cuerpo de crecimiento con bandas concéntricas y eje o canal",
+      "limit": "Solo estalactita/estalagmita si geometría diagnóstica",
+      "photos": [
+        {
+          "id": "p4-9202",
+          "path": "practica_04/IMG_9202.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cuerpo alargado y estrechado con una abertura terminal. El posible canal apoya crecimiento por goteo."
+        },
+        {
+          "id": "p4-9203",
+          "path": "practica_04/IMG_9203.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cara transversal con bandas anulares alrededor de varios centros. Compatible con crecimiento de concreciones contiguas."
+        },
+        {
+          "id": "p4-9204",
+          "path": "practica_04/IMG_9204.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Capas finas concéntricas que se ajustan a relieves y se interrumpen en el borde. Apoyan acreción sucesiva."
+        },
+        {
+          "id": "p4-9205",
+          "path": "practica_04/IMG_9205.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Perfil alargado con superficie escalonada y costras superpuestas. La foto no conserva la posición en la cueva."
+        },
+        {
+          "id": "p4-9206",
+          "path": "practica_04/IMG_9206.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Relieve lobulado con capas curvas que recubren abultamientos anteriores. Compatible con una concreción carbonatada."
+        }
+      ]
+    },
+    {
+      "id": "r038",
+      "name": "Travertino",
+      "group": "carbonatadas",
+      "practice": 4,
+      "identifierId": "r038",
+      "explanation": "Bandas de acreción de costras o mantos; alternancia compacto/poroso",
+      "limit": "Estromatolito, al que el material da menos prioridad",
+      "photos": [
+        {
+          "id": "p4-9208",
+          "path": "practica_04/IMG_9208.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Bandas claras y oscuras subparalelas con cambios de espesor. Compatible con travertino compacto bandeado."
+        },
+        {
+          "id": "p4-9209",
+          "path": "practica_04/IMG_9209.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Niveles ocres densos alternan con bandas oscuras de poros alineados. Es la vista más clara de precipitación por episodios."
+        },
+        {
+          "id": "p4-9210",
+          "path": "practica_04/IMG_9210.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Bandas oscuras curvas rodean un relieve claro. Describir el crecimiento en costras, sin deducir el grado de iluminación."
+        }
+      ]
+    },
+    {
+      "id": "r039",
+      "name": "Toba calcárea",
+      "group": "carbonatadas",
+      "practice": 4,
+      "identifierId": "r039",
+      "explanation": "Porosidad irregular con tubos o moldes de tallos/vegetación",
+      "limit": "Pumita; lava vacuolar",
+      "photos": [
+        {
+          "id": "p4-9212",
+          "path": "practica_04/IMG_9212.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Costra rugosa con huecos irregulares y superficies curvas en relieve. Compatible con incrustación porosa."
+        },
+        {
+          "id": "p4-9213",
+          "path": "practica_04/IMG_9213.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Tubos de contorno definido, conductos y formas semejantes a tallos. La geometría de los moldes apoya toba calcárea."
+        },
+        {
+          "id": "p4-9214",
+          "path": "practica_04/IMG_9214.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Relieves alargados casi paralelos en una costra parda. Pueden corresponder a vegetación recubierta."
+        },
+        {
+          "id": "p4-9215",
+          "path": "practica_04/IMG_9215.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Red abierta de huecos de distinto tamaño y paredes calcáreas delgadas. Buscar moldes vegetales en la pieza."
+        }
+      ]
+    },
+    {
+      "id": "r041",
+      "name": "Estromatolito",
+      "group": "carbonatadas",
+      "practice": 4,
+      "identifierId": "r041",
+      "explanation": "Láminas repetidas que siguen domos o columnas fijados al sustrato",
+      "limit": "Fotografiado; el esquema da prioridad a travertino",
+      "photos": [
+        {
+          "id": "p4-9217",
+          "path": "practica_04/IMG_9217.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Series onduladas que se adaptan a pequeños relieves. Las líneas rojizas que las cortan son posteriores a la laminación."
+        },
+        {
+          "id": "p4-9218",
+          "path": "practica_04/IMG_9218.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Bandas irregulares y suavemente arqueadas, continuas a través de la cara. Posible crecimiento en tapiz."
+        },
+        {
+          "id": "p4-9219",
+          "path": "practica_04/IMG_9219.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Fragmento ocre de contornos oscuros difusos. No permite comprobar laminación microbiana."
+        },
+        {
+          "id": "p4-9220",
+          "path": "practica_04/IMG_9220.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Corte longitudinal con trazos finos alargados y curvos. El patrón es compatible con una construcción laminada, sin resolución del agente."
+        },
+        {
+          "id": "p4-9221",
+          "path": "practica_04/IMG_9221.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Segunda vista casi idéntica. La zona central arqueada es más informativa que las estrías del borde."
+        },
+        {
+          "id": "p4-9222",
+          "path": "practica_04/IMG_9222.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Láminas que cambian de dirección y siguen relieves muy marcados. Comprobar su continuidad en otra cara."
+        },
+        {
+          "id": "p4-9223",
+          "path": "practica_04/IMG_9223.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Fina laminación paralela sobre fondo oscuro y venas claras transversales. El paralelismo solo no demuestra actividad microbiana."
+        },
+        {
+          "id": "p4-9224",
+          "path": "practica_04/IMG_9224.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Vista general movida de bandejas. No hay detalle suficiente para clasificar una pieza."
+        }
+      ]
+    },
+    {
+      "id": "r037",
+      "name": "Caliza oncolítica",
+      "group": "carbonatadas",
+      "practice": 4,
+      "identifierId": "r037",
+      "explanation": "Granos revestidos con núcleos separados y capas irregulares",
+      "limit": "Caliza oolítica; estromatolito fijado al sustrato",
+      "photos": [
+        {
+          "id": "p4-9226",
+          "path": "practica_04/IMG_9226.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Superficie irregular con cuerpos salientes poco delimitados. Buscar anillos en una sección fresca."
+        },
+        {
+          "id": "p4-9227",
+          "path": "practica_04/IMG_9227.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cuerpos ovalados claros en el canto superior. La cara cortada oscura presenta marcas rectas de corte."
+        },
+        {
+          "id": "p4-9228",
+          "path": "practica_04/IMG_9228.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Superficie rugosa con nódulos dispersos. Los recubrimientos no quedan resueltos en esta vista."
+        },
+        {
+          "id": "p4-9229",
+          "path": "practica_04/IMG_9229.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Muchos cuerpos redondos de tamaños distintos, varios en relieve. Se precisa observar el interior para excluir cantos simples."
+        },
+        {
+          "id": "p4-9230",
+          "path": "practica_04/IMG_9230.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Secciones ovales con borde y núcleo diferenciados, entre partículas más oscuras. Probables granos revestidos."
+        },
+        {
+          "id": "p4-9231",
+          "path": "practica_04/IMG_9231.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Nódulos claros de varios tamaños incluidos en una masa más fina. La redondez aislada deja abierta la identificación."
+        },
+        {
+          "id": "p4-9232",
+          "path": "practica_04/IMG_9232.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Vista de conjunto. Se aprecian nódulos en la pieza inferior, aunque su estructura interna queda fuera de resolución."
+        },
+        {
+          "id": "p4-9233",
+          "path": "practica_04/IMG_9233.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Varios cuerpos con capas anulares irregulares alrededor de centros independientes. Evidencia directa a favor de oncolitos."
+        },
+        {
+          "id": "p4-9234",
+          "path": "practica_04/IMG_9234.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Corte de dos cuerpos grandes con envolturas sucesivas muy claras. El núcleo del izquierdo permite seguir el crecimiento hacia fuera."
+        },
+        {
+          "id": "p4-9235",
+          "path": "practica_04/IMG_9235.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Superficie cortada con numerosos perfiles redondos de poco contraste. Buscar láminas en los perfiles mejor conservados."
+        }
+      ]
+    },
+    {
+      "id": "r034",
+      "name": "Caliza fosilífera",
+      "group": "carbonatadas",
+      "practice": 4,
+      "identifierId": "r034",
+      "explanation": "Conchas, paredes, espiras o fragmentos esqueléticos identificables",
+      "limit": "Fósiles de foraminíferos / coral si se precisan",
+      "photos": [
+        {
+          "id": "p4-9237",
+          "path": "practica_04/IMG_9237.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Numerosos perfiles curvos y alargados con espesor de pared. Compatible con acumulación de conchas fragmentadas."
+        },
+        {
+          "id": "p4-9238",
+          "path": "practica_04/IMG_9238.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Secciones claras ovaladas dentro de material oscuro. La pieza lateral permite seguir su espesor, aunque la anatomía es poco nítida."
+        },
+        {
+          "id": "p4-9239",
+          "path": "practica_04/IMG_9239.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Grandes secciones enrolladas con pared continua entre restos más pequeños. Rasgo convincente de conchas incorporadas al sedimento."
+        },
+        {
+          "id": "p4-9240",
+          "path": "practica_04/IMG_9240.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Concentración de cuerpos redondeados oscuros. Conviene comprobar cámaras o pared antes de atribuirlos a fósiles."
+        }
+      ]
+    },
+    {
+      "id": "r036",
+      "name": "Caliza coralina / biolitito",
+      "group": "carbonatadas",
+      "practice": 4,
+      "identifierId": "r036",
+      "explanation": "Cálices y tabiques de coral; posible armazón originalmente ligado",
+      "limit": "Biolitito exige armazón construido en vida",
+      "photos": [
+        {
+          "id": "p4-9247",
+          "path": "practica_04/IMG_9247.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Corte compacto con alguna sección circular. Buscar tabiques radiales antes de identificar coral."
+        },
+        {
+          "id": "p4-9248",
+          "path": "practica_04/IMG_9248.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Pieza rugosa con salientes y depresiones repetidas. La organización colonial es posible, aunque los tabiques quedan poco definidos."
+        },
+        {
+          "id": "p4-9250",
+          "path": "practica_04/IMG_9250.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Masa porosa redondeada con hueco grande y muchos poros menores. El gran orificio solo no diagnostica coral."
+        },
+        {
+          "id": "p4-9251",
+          "path": "practica_04/IMG_9251.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Cara opuesta con relieve longitudinal, orificios pequeños y uno mayor. Contrastar la continuidad del esqueleto en sección."
+        },
+        {
+          "id": "p4-9252",
+          "path": "practica_04/IMG_9252.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Surcos sinuosos, contiguos, con pequeñas divisiones repetidas en sus paredes. Compatible con una colonia coralina."
+        },
+        {
+          "id": "p4-9253",
+          "path": "practica_04/IMG_9253.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Primer plano de valles meandriformes con tabiques finos regularmente espaciados. Es la vista más diagnóstica del esqueleto colonial."
+        },
+        {
+          "id": "p4-9254",
+          "path": "practica_04/IMG_9254.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Fragmento pequeño e irregular con huecos y sectores recristalizados. Aislado, carece de detalle para confirmar una bioconstrucción."
+        }
+      ]
+    },
+    {
+      "id": "r045",
+      "name": "Mármol",
+      "group": "metamorficas",
+      "practice": 5,
+      "identifierId": "r045",
+      "explanation": "Mosaico cristalino sacaroideo de carbonato recristalizado",
+      "limit": "Caliza micrítica; agregado de yeso",
+      "photos": [
+        {
+          "id": "p5-9318",
+          "path": "practica_05/IMG_9318.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Lámina blanca con superficie de destellos finos y masa relativamente homogénea. Compatible con mármol sacaroideo; comprobar composición carbonatada."
+        },
+        {
+          "id": "p5-9319",
+          "path": "practica_05/IMG_9319.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Placa verdosa veteada y pulida. El pulido oculta los contactos entre cristales. La posición en la serie no basta para confirmar mármol; pedir reacción y examinar una fractura."
+        },
+        {
+          "id": "p5-9320",
+          "path": "practica_05/IMG_9320.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Bandas rosadas y oscuras con destellos. Se describe la alternancia y una vena clara transversal. Identificación carbonatada pendiente de ensayo."
+        }
+      ]
+    },
+    {
+      "id": "r046",
+      "name": "Pizarra",
+      "group": "metamorficas",
+      "practice": 5,
+      "identifierId": "r046",
+      "explanation": "Grano muy fino con pizarrosidad; lajas finas paralelas y regulares",
+      "limit": "Lutita",
+      "photos": [
+        {
+          "id": "p5-9322",
+          "path": "practica_05/IMG_9322.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Laja gris oscura fina, de superficie lisa y mate. El canto delgado y la uniformidad apoyan pizarra, con carácter de la foliación por comprobar."
+        },
+        {
+          "id": "p5-9323",
+          "path": "practica_05/IMG_9323.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Planchas grises con superficies lisas y líneas de fractura. Buscar planos repetidos que atraviesen el volumen y su relación con posibles capas heredadas."
+        }
+      ]
+    },
+    {
+      "id": "r051",
+      "name": "Migmatita",
+      "group": "metamorficas",
+      "practice": 5,
+      "identifierId": "r051",
+      "explanation": "Convivencia de fábrica foliada y dominios/venas de aspecto granudo asociados a fusión",
+      "limit": "Gneis; algunas fotos no distinguen ambas",
+      "photos": [
+        {
+          "id": "p5-9325",
+          "path": "practica_05/IMG_9325.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Cristales claros y negros orientados, con sectores rosados. Compatible con roca gneísica; no se separa con seguridad una fracción fundida a esta escala."
+        },
+        {
+          "id": "p5-9326",
+          "path": "practica_05/IMG_9326.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Bandas longitudinales oscuras en material rosado granular. Se reconoce bandeado; buscar una vena clara que corte la fábrica para apoyar migmatita."
+        },
+        {
+          "id": "p5-9327",
+          "path": "practica_05/IMG_9327.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Placa con alternancia fina de dominios claros y oscuros orientados. Los reflejos del pulido ocultan parte del detalle; gneis sigue siendo alternativa."
+        },
+        {
+          "id": "p5-9328",
+          "path": "practica_05/IMG_9328.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Dominios claros rosados irregulares junto a material oscuro foliado. Los cambios de orientación y contactos apoyan un aspecto mixto, compatible con migmatita."
+        },
+        {
+          "id": "p5-9329",
+          "path": "practica_05/IMG_9329.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Superficie granular de cristales claros y oscuros, con orientación débil en esta cara. La foto no acredita fusión parcial; revisar otras caras."
+        }
+      ]
+    },
+    {
+      "id": "r047",
+      "name": "Esquisto",
+      "group": "metamorficas",
+      "practice": 5,
+      "identifierId": "r047",
+      "explanation": "Foliación visible a menudo ondulada y minerales laminares reconocibles",
+      "limit": "Pizarra; micaesquisto",
+      "photos": [
+        {
+          "id": "p5-9331",
+          "path": "practica_05/IMG_9331.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Superficies planas con trazos claros alargados. Algunas líneas pueden ser venas. Hay que distinguirlas de láminas minerales repetidas antes de confirmar esquistosidad."
+        },
+        {
+          "id": "p5-9332",
+          "path": "practica_05/IMG_9332.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Numerosas láminas finas continuas y onduladas, con direcciones próximas. Es la vista más clara de fábrica esquistosa en esta serie."
+        },
+        {
+          "id": "p5-9333",
+          "path": "practica_05/IMG_9333.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Superficie brillante, irregular y ondulada, con aspecto de escamas. Compatible con esquisto micáceo; observar micas individuales con lupa."
+        }
+      ]
+    },
+    {
+      "id": "r049",
+      "name": "Micacita / micaesquisto",
+      "group": "metamorficas",
+      "practice": 5,
+      "identifierId": "r049",
+      "explanation": "Fábrica lepidoblástica con predominio evidente de escamas de mica",
+      "limit": "Micaesquisto",
+      "photos": [
+        {
+          "id": "p5-9335",
+          "path": "practica_05/IMG_9335.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Escamas y planos brillantes, orientación marcada y separación en planchas. Apoya un agregado rico en mica."
+        },
+        {
+          "id": "p5-9336",
+          "path": "practica_05/IMG_9336.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Pieza oscura moteada con destellos dispersos. La mica no puede cuantificarse en esta cara; la asignación a micacita queda por confirmar."
+        },
+        {
+          "id": "p5-9337",
+          "path": "practica_05/IMG_9337.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Abundantes superficies amarillentas brillantes, también en partículas sueltas. Verificar que se trata de láminas de mica y distinguir brillo metálico de inclusiones."
+        }
+      ]
+    },
+    {
+      "id": "r050",
+      "name": "Gneis",
+      "group": "metamorficas",
+      "practice": 5,
+      "identifierId": "r050",
+      "explanation": "Bandeado de minerales claros y oscuros, con cuarzo/feldespato y foliación",
+      "limit": "Migmatita",
+      "photos": [
+        {
+          "id": "p5-9339",
+          "path": "practica_05/IMG_9339.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Orientación de bandas y láminas finas con brillo micáceo. La separación de niveles ricos en cuarzo/feldespato es poco nítida; posible gneis o esquisto micáceo."
+        },
+        {
+          "id": "p5-9340",
+          "path": "practica_05/IMG_9340.jpg",
+          "url": "",
+          "exam": false,
+          "observation": "Otra cara con bandas onduladas y brillo general. Comprobar composición de los niveles para sostener gneis frente a micacita."
+        },
+        {
+          "id": "p5-9341",
+          "path": "practica_05/IMG_9341.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Dominio oscuro foliado y grandes cuerpos claros lenticulares e irregulares. Aspecto gneísico ocelado; las relaciones con posibles venas requieren otra cara."
+        },
+        {
+          "id": "p5-9342",
+          "path": "practica_05/IMG_9342.jpg",
+          "url": "",
+          "exam": true,
+          "observation": "Alternancia de bandas oscuras y agregados claros alargados. La orientación y la separación composicional apoyan gneis."
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "photo": "IMG_8961",
+      "series": "Basalto",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_8965",
+      "series": "Lava cordada",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_8972",
+      "series": "Lava vacuolar",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_8975",
+      "series": "Bomba volcánica",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_8979",
+      "series": "Pumita",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_8982",
+      "series": "Riolita",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_8984",
+      "series": "Roca porfídica de composición pendiente",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_8985",
+      "series": "Andesita",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_8990",
+      "series": "Gabro",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_8995",
+      "series": "Sienita",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9003",
+      "series": "Granito",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9040",
+      "series": "Arenisca",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9044",
+      "series": "Arenisca",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9047",
+      "series": "Arenisca",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9050",
+      "series": "Brechas",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9056",
+      "series": "Conglomerados",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9060",
+      "series": "Grava suelta y cantos rodados",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9063",
+      "series": "Halita",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9066",
+      "series": "Silvina",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9068",
+      "series": "Identificación pendiente",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9069",
+      "series": "Identificación pendiente",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9070",
+      "series": "Identificación pendiente",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9104",
+      "series": "Identificación pendiente",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9071",
+      "series": "Lutitas",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9073",
+      "series": "Lutitas",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9077",
+      "series": "Yeso",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9083",
+      "series": "Sulfato cálcico compacto",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9084",
+      "series": "Sulfato cálcico compacto",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9085",
+      "series": "Sílex",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9089",
+      "series": "Ágata fotografiada",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9092",
+      "series": "Xilópalo",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9095",
+      "series": "Turba",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9096",
+      "series": "Turba",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9098",
+      "series": "Lignito",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9100",
+      "series": "Hulla",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9172",
+      "series": "Caliza oolítica",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9178",
+      "series": "Caliza micrítica",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9179",
+      "series": "Caliza micrítica",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9184",
+      "series": "Caliza con intraclastos",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9188",
+      "series": "Marga",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9193",
+      "series": "Carbonato cristalino y esparita --- contraste",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9194",
+      "series": "Carbonato cristalino y esparita --- contraste",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9195",
+      "series": "Carbonato cristalino y esparita --- contraste",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9196",
+      "series": "Carbonato cristalino y esparita --- contraste",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9197",
+      "series": "Carbonato cristalino y esparita --- contraste",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9198",
+      "series": "Dolomía --- material de contraste",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9199",
+      "series": "Dolomía --- material de contraste",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9200",
+      "series": "Dolomía --- material de contraste",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9201",
+      "series": "Espeleotema",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9207",
+      "series": "Travertino",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9211",
+      "series": "Toba calcárea",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9216",
+      "series": "Estromatolito",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9225",
+      "series": "Caliza oncolítica",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9236",
+      "series": "Caliza fosilífera",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9241",
+      "series": "Caliza con posibles foraminíferos",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9242",
+      "series": "Caliza con posibles foraminíferos",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9243",
+      "series": "Caliza con posibles foraminíferos",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9244",
+      "series": "Caliza con posibles foraminíferos",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9245",
+      "series": "Caliza con posibles foraminíferos",
+      "reason": "Identificación pendiente o material de contraste"
+    },
+    {
+      "photo": "IMG_9246",
+      "series": "Caliza coralina y biolitito",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9249",
+      "series": "Caliza coralina y biolitito",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9317",
+      "series": "Mármol",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9321",
+      "series": "Pizarra",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9324",
+      "series": "Migmatita",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9330",
+      "series": "Esquisto",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9334",
+      "series": "Micacita y micaesquisto",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    },
+    {
+      "photo": "IMG_9338",
+      "series": "Gneis",
+      "reason": "Rótulo o etiqueta visible en revisión de miniaturas"
+    }
+  ]
+}
