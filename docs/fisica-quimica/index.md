@@ -6,13 +6,21 @@ Recursos para estudiar Física y Química en Educación Secundaria y Bachillerat
 
 <div class="grid cards" markdown>
 
+-   **🧪 Física y Química — 3.º de ESO**
+
+    ---
+
+    Materiales y pruebas de evaluación sobre modelo atómico, tabla periódica y mol.
+
+    [Acceder a 3.º de ESO](3-eso/index.md){ .md-button .md-button--primary }
+
 -   **📘 Física y Química — 4.º de ESO**
 
     ---
 
     Primeros contenidos de cinemática, con materiales para comprender y practicar el movimiento rectilíneo uniformemente acelerado.
 
-    [Acceder a 4.º de ESO](4-eso/index.md){ .md-button .md-button--primary }
+    [Acceder a 4.º de ESO](4-eso/index.md){ .md-button }
 
 -   **🧪 Física y Química — 1.º de Bachillerato**
 
