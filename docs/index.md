@@ -17,13 +17,13 @@ Materiales abiertos para Educación Secundaria y Bachillerato: apuntes, ejercici
 
     [Acceder a Física y Química](fisica-quimica/index.md)
 
--   **Física — 2.º de Bachillerato**
+-   **Física**
 
     ---
 
     Apuntes, problemas y recursos de repaso para Física de 2.º de Bachillerato.
 
-    [Acceder a Física de 2.º](fisica/2-bach/index.md)
+    [Acceder a Física](fisica/2-bach/index.md)
 
 -   **Matemáticas**
 
