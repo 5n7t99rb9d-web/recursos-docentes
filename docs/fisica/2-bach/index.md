@@ -2,17 +2,17 @@
 
 Materiales de apoyo para la asignatura de Física de 2.º de Bachillerato, organizados por unidades.
 
-## Examen trimestral
+## Exámenes
 
 <div class="grid cards physics-resources" markdown>
 
--   **📝 Examen trimestral — curso 2026–2027**
+-   **📝 Exámenes — curso 2026–2027**
 
     ---
 
-    Prueba global de 10 puntos con problemas de campo gravitatorio y órbitas, MAS y fenómenos ondulatorios.
+    Parciales y examen trimestral, con los contenidos evaluados en cada prueba.
 
-    [Descargar examen trimestral](materiales/examenes/2026-2027/examen-trimestral-fisica-2-bach.pdf){ .md-button .md-button--primary }
+    [Acceder a Exámenes](examenes.md){ .md-button .md-button--primary }
 
 </div>
 
@@ -26,7 +26,7 @@ Materiales de apoyo para la asignatura de Física de 2.º de Bachillerato, organ
 
     Campo gravitatorio, potencial y energía, leyes de Kepler y movimiento de satélites.
 
-    Teoría, problemas y exámenes parciales.
+    Teoría y problemas.
 
     [Acceder a Gravitación](gravitacion.md){ .md-button .md-button--primary }
 
@@ -44,7 +44,7 @@ Materiales de apoyo para la asignatura de Física de 2.º de Bachillerato, organ
 
     Movimiento armónico simple, osciladores, propagación de ondas, sonido y fenómenos ondulatorios.
 
-    Teoría, colección de problemas y segundo parcial de MAS y gravitación.
+    Teoría y colección de problemas.
 
     [Acceder a Vibraciones y ondas](ondas.md){ .md-button }
 
