@@ -30,6 +30,14 @@ Materiales de apoyo para la asignatura de Física de 2.º de Bachillerato, organ
 
     [Acceder a Gravitación](gravitacion.md){ .md-button .md-button--primary }
 
+-   **⚡ Campo eléctrico**
+
+    ---
+
+    Vídeo explicativo sobre el campo eléctrico.
+
+    [Acceder a Campo eléctrico](campo-electrico.md){ .md-button }
+
 -   **🌊 Vibraciones y ondas**
 
     ---
@@ -47,7 +55,6 @@ Materiales de apoyo para la asignatura de Física de 2.º de Bachillerato, organ
 Las siguientes unidades se incorporarán cuando estén disponibles sus documentos:
 
 - Óptica.
-- Campo eléctrico.
 - Campo magnético.
 - Física moderna.
 
