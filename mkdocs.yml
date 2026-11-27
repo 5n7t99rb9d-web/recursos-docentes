@@ -54,6 +54,7 @@ nav:
   - Física:
       - Presentación: fisica/2-bach/index.md
       - Gravitación: fisica/2-bach/gravitacion.md
+      - Campo eléctrico: fisica/2-bach/campo-electrico.md
       - Vibraciones y ondas: fisica/2-bach/ondas.md
 
   - Matemáticas: matematicas/index.md
