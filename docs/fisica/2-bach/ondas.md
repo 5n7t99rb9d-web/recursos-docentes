@@ -31,14 +31,6 @@ Física — 2.º de Bachillerato.
 
     [Descargar problemas](materiales/ondas/problemas-ondas.pdf){ .md-button }
 
--   **📝 Segundo parcial — MAS y gravitación**
-
-    ---
-
-    Enunciado del segundo parcial del curso 2026–2027, sobre movimiento armónico simple y gravitación (21 de octubre de 2026). Duración: 45 minutos. Puntuación máxima: 10 puntos.
-
-    [Descargar segundo parcial](materiales/examenes/2026-2027/parcial-02-mas-gravitacion.pdf){ .md-button }
-
 </div>
 
 ## Vídeos explicativos
@@ -119,6 +111,8 @@ Vídeos para reforzar y relacionar los contenidos del movimiento ondulatorio.
 
 !!! info "Uso recomendado"
 
-    Repasa primero el movimiento armónico simple y continúa con la propagación y los fenómenos ondulatorios. Combina los apuntes con la colección de problemas y utiliza el segundo parcial para repasar los contenidos evaluados.
+    Repasa primero el movimiento armónico simple y continúa con la propagación y los fenómenos ondulatorios. Combina los apuntes con la colección de problemas y consulta la sección de Exámenes para repasar los contenidos evaluados.
 
-[Volver a Física de 2.º de Bachillerato](index.md)
+[Consultar Exámenes](examenes.md){ .md-button }
+
+[Volver a Física](index.md)
